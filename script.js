@@ -20,6 +20,7 @@ const poems = [
     poem:"Roses are red Violets are blue,Sugar is sweet And so are you.",
     image:"random images"
   },
+  {
     author: "Abdullah",
     poem: "Roses are red \n Violets are blue \n  I'm here coding with my crew!!!",
     image: "coding.jpeg",
