@@ -11,10 +11,15 @@ const poems = [
   },
   {
     author: "Ernie",
-    poem: "Roses are red \n Violets are blue \n Jerry Seinfeld is considering \n Making Bee Movie 2",
+    poem: "Roses re red \n Violets are blue \n Jerry Seinfeld is considering \n Making Bee Movie 2",
     image: "bee.jpeg",
   },
   {
+
+    author:"george" ,
+    poem:"Roses are red Violets are blue,Sugar is sweet And so are you.",
+    image:"random images"
+  },
     author: "Abdullah",
     poem: "Roses are red \n Violets are blue \n  I'm here coding with my crew!!!",
     image: "coding.jpeg",
