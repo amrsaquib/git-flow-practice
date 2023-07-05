@@ -15,12 +15,22 @@ const poems = [
     image: "bee.jpeg",
   },
   {
+
     author:"george" ,
     poem:"Roses are red Violets are blue,Sugar is sweet And so are you.",
     image:"random images"
-  }
+  },
+    author: "Abdullah",
+    poem: "Roses are red \n Violets are blue \n  I'm here coding with my crew!!!",
+    image: "coding.jpeg",
+  },
 
   // YOUR CODE HERE: Add an object containing two key value pairs: author and poem. Set the author property as equal to a string with your first name. Set the poem property as equal to a short "roses are red" poem. Use the new line character as in the example when you would like a line break.
+  {
+    author: "Zachary",
+    poem: "Roses are red \n Violets are blue \n poopoo peepee \n peepee poopoo",
+    image: "horror.PNG"
+  }
 ];
 
 let displayPoems = (array) => {
